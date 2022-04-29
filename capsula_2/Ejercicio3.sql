@@ -4,7 +4,7 @@ create table persona(
   nombre varchar
 );
 
--- Punto 2
+-- Punto 2PIDJSAKDJSAKD
 insert into persona values 
   (5, 'Fede'),
   (3, 'Jorge'),
